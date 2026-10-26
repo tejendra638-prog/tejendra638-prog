@@ -1,7 +1,7 @@
-[![MasterHead](https://imgs.search.brave.com/ln2HTNLIpZ0m6vGmBwFPldWJVwojBJfhE3Ek7hkFzFI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM0LmFscGhhY29k/ZXJzLmNvbS8xMzAv/dGh1bWJiaWctMTMw/Nzk0MC53ZWJw)]
+[![MasterHead](https://imgs.search.brave.com/OUvGfl1Jiid2EuZKVqwbRPs8pELnjmlf5czSiMAFG5s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvODY1/NjQ5OS5qcGc)]
 <h1 align="center">Hi 👋, I'm Tejendra Agastya</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s4M3o0ZWZibHljaGc3dDI0b2g3bzVvMm9zdWpveHF2cW92MGhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11j5OF7BTglVkc/giphy.gif")
+(imgalign="rightalt="Coding"width="400"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s4M3o0ZWZibHljaGc3dDI0b2g3bzVvMm9zdWpveHF2cW92MGhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11j5OF7BTglVkc/giphy.gif")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejendra638-prog" alt="tejendra638-prog" /></a> </p>
 
